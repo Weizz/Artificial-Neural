@@ -1,4 +1,4 @@
-function flag = myimdilate(path)
+function flag = PlatLocation(path)
     tic;    %計時器開始
     
     isPlatDetactected = 0; %#ok<NASGU>  %定位到車牌旗幟
